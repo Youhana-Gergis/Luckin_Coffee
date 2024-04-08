@@ -12,3 +12,7 @@ The first page home
 ##########################################################################################################
 
 The Second Page
+
+![seven](https://github.com/Youhana-Gergis/Luckin_Coffee/assets/124525093/dff3070c-fc30-45e8-868b-b05d8a5f7441)
+![eight](https://github.com/Youhana-Gergis/Luckin_Coffee/assets/124525093/7d6b38d5-70d0-4235-86e7-2c2538811c5b)
+![nine](https://github.com/Youhana-Gergis/Luckin_Coffee/assets/124525093/05dc5157-4cf5-4a94-bfed-2821959db84f)
